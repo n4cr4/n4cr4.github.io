@@ -1,0 +1,29 @@
+.bg-img {
+  background-color: gray;
+  background-size: cover;
+  /* divタグ全体を一枚のimgで囲えるように修正してくれる */
+  background-position: center 30%;
+}
+
+h2 {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 1em;
+}
+h2:before {
+  content: '';
+  position: absolute;
+  bottom: -15px;
+  display: inline-block;
+  width: 60px;
+  height: 5px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  background-color: black;
+  border-radius: 2px;
+}
+
+body {
+  font-family: "Hiragino Kku Gothic ProN", "メイリオ", sans-serif;
+}
