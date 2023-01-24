@@ -6,22 +6,10 @@
 }
 
 h2 {
-  position: relative;
-  display: inline-block;
-  margin-bottom: 1em;
-}
-h2:before {
-  content: '';
-  position: absolute;
-  bottom: -15px;
-  display: inline-block;
-  width: 60px;
-  height: 5px;
-  left: 50%;
-  -webkit-transform: translateX(-50%);
-  transform: translateX(-50%);
-  background-color: black;
-  border-radius: 2px;
+  margin: 10px 0px;
+  padding: 0.25em 0.5em;/*上下 左右の余白*/
+  background: transparent;/*背景透明に*/
+  border-left: solid 5px black;/*左線*/
 }
 
 body {
