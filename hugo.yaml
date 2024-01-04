@@ -54,17 +54,7 @@ params:
     enabled: true # needs to be explicitly set
     title: n4cr4
     subtitle: >
-      ### 所属
-
       千葉大学 工学部総合工学科 情報工学コース3年
-
-      ### 言語
-
-      Python, JS, PHP...
-
-      ### キーワード
-
-      セキュリティ、脅威解析、バグハンティング
     imageUrl: "/myself.jpg"
     imageWidth: 130
     imageHeight: 130
@@ -116,7 +106,11 @@ menu:
     - identifier: search
       name: search
       url: /search/
-      weight: 20
+      weight: 30
+    - identifier: myself
+      name: myself
+      url: /myself/
+      weight: 10
     - identifier: tags
       name: tags
       url: /tags/
@@ -124,7 +118,8 @@ menu:
     - identifier: request
       name: request
       url: https://example.org
-      weight: 30
+      weight: 40
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
