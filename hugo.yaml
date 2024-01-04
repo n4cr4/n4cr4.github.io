@@ -7,6 +7,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+defaultContentLanguage: ja
 
 minify:
   disableXML: true
@@ -25,6 +26,7 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
+  ShareButtons: ["x", "linkedin", "reddit"]
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -60,10 +62,10 @@ params:
     imageHeight: 130
     imageTitle: my image
     buttons:
+      - name: Profile
+        url: profile
       - name: Posts
         url: posts
-      - name: Tags
-        url: tags
 
   socialIcons:
     - name: x
@@ -107,9 +109,9 @@ menu:
       name: search
       url: /search/
       weight: 30
-    - identifier: myself
-      name: myself
-      url: /myself/
+    - identifier: profile
+      name: profile
+      url: /profile/
       weight: 10
     - identifier: tags
       name: tags
@@ -117,7 +119,7 @@ menu:
       weight: 20
     - identifier: request
       name: request
-      url: https://example.org
+      url: https://github.com/n4cr4/n4cr4.github.io/issues/new?assignees=n4cr4&labels=&projects=&template=blog-request.md&title=
       weight: 40
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma

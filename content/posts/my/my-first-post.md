@@ -13,3 +13,12 @@ Hi, from chiba.
 ```py
 print('hoge')
 ```
+
+```c {linenos=table,hl_lines=[3]}
+#include <stdio.h>
+
+int main() {
+    printf("Hello World.\n");
+    return 0;
+}
+```
