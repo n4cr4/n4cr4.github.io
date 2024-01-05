@@ -15,3 +15,6 @@ writeupの記事を追加するときは
 ```
 hugo new -k writeup posts/writeup/<problem-name>.md
 ```
+
+### mdのsyntax
+[ここ](https://adityatelange.github.io/hugo-PaperMod/posts/markdown-syntax/)を見れば良いと思う．
