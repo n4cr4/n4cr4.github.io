@@ -21,7 +21,7 @@ hideMeta: true
 | 年 | 賞 | エントリ人数 |
 | --- | --- | --- |
 | [2021](https://jdp.chiba-u.jp/c-csirt/contest/bughunt2021/index.html) | 奨励賞 | 1 |
-| [2022](https://jdp.chiba-u.jp/c-csirt/contest/bughunt2022/index.html) | 奨励賞 | 4 |
+| [2022](https://jdp.chiba-u.jp/c-csirt/contest/bughunt2022/index.html) | 奨励賞 | 3 |
 | [2023](https://jdp.chiba-u.jp/c-csirt/contest/bughunt2023/index.html) | 優秀賞 | 4 |
 
 ### セキュリティ・キャンプ
