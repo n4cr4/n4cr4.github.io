@@ -25,6 +25,7 @@ hideMeta: true
 | [2021](https://jdp.chiba-u.jp/c-csirt/contest/bughunt2021/index.html) | 奨励賞 | 1 |
 | [2022](https://jdp.chiba-u.jp/c-csirt/contest/bughunt2022/index.html) | 奨励賞 | 3 |
 | [2023](https://jdp.chiba-u.jp/c-csirt/contest/bughunt2023/index.html) | 優秀賞 | 4 |
+| [2024](https://jdp.chiba-u.jp/c-csirt/contest/bughunt2023/index.html) | 優秀賞 | 4 |
 
 ### セキュリティ・キャンプ
 学生を対象とした情報セキュリティに関する勉強会です。全国大会は4泊5日の合宿形式で開催されます。また、特定のテーマに絞ってより短期間での実施となる地方大会も存在します。
@@ -35,6 +36,8 @@ hideMeta: true
 | [2022](https://www.ipa.go.jp/jinzai/security-camp/2022/zenkoku/about.html) | 全国大会(オンライン) | Cコース(脅威解析クラス) |
 | [2023](https://www.security-camp.or.jp/minicamp/tokyo2023.html) | 地方大会(東京ミニキャンプ) | Cトラック(マルウェア解析入門) |
 | [2023](https://www.ipa.go.jp/jinzai/security-camp/2023/zenkoku/about.html) | 全国大会 | Cコース(脅威解析クラス) |
+| [2024](https://www.security-camp.or.jp/minicamp/tokyo2024.html) | 地方大会(東京ミニキャンプ) |  |
+| [2024](https://www.security-camp.or.jp/minicamp/kumamoto2024.html) | 地方大会(熊本ミニキャンプ) |  |
 
 ### インターン
 [NFLabs.](https://nflabs.jp/)でセキュリティ教育プラットフォームの開発に参加していました。プラットフォーム内で扱う問題の作成が主な業務でした。
@@ -42,4 +45,6 @@ hideMeta: true
 ## 興味のある領域
 セキュリティ周辺の技術全般に興味を持っています。過去に取り組んだCTFのうち、Scrapboxに[Writeup](https://scrapbox.io/ctfwriteupn4cr4/)を載せているものもあるので参照ください。好きなジャンルはWeb, Reversing, Pwnableです。
 
-最近はLKMやWebExplolitをより深く学習しています。
+~~最近はLKMやWebExplolitをより深く学習しています。~~
+
+ポケカか筋トレかインフラの勉強をしています。AWS試験を受験せねば…
