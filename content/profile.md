@@ -36,8 +36,8 @@ hideMeta: true
 | [2022](https://www.ipa.go.jp/jinzai/security-camp/2022/zenkoku/about.html) | 全国大会(オンライン) | Cコース(脅威解析クラス) |
 | [2023](https://www.security-camp.or.jp/minicamp/tokyo2023.html) | 地方大会(東京ミニキャンプ) | Cトラック(マルウェア解析入門) |
 | [2023](https://www.ipa.go.jp/jinzai/security-camp/2023/zenkoku/about.html) | 全国大会 | Cコース(脅威解析クラス) |
-| [2024](https://www.security-camp.or.jp/minicamp/tokyo2024.html) | 地方大会(東京ミニキャンプ) |  |
-| [2024](https://www.security-camp.or.jp/minicamp/kumamoto2024.html) | 地方大会(熊本ミニキャンプ) |  |
+| [2024](https://www.security-camp.or.jp/minicamp/tokyo2024.html) | 地方大会(東京ミニキャンプ) | Cトラック(Wi-Fiルータ解析) |
+| [2024](https://www.security-camp.or.jp/minicamp/kumamoto2024.html) | 地方大会(熊本ミニキャンプ) | 共通講義 |
 
 ### インターン
 [NFLabs.](https://nflabs.jp/)でセキュリティ教育プラットフォームの開発に参加していました。プラットフォーム内で扱う問題の作成が主な業務でした。
