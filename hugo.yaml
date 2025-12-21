@@ -1,6 +1,7 @@
 baseURL: "https://n4cr4.github.io/"
 title: n4cr4 web
-paginate: 5
+pagination:
+  pagerSize: 10
 theme: PaperMod
 
 enableRobotsTXT: true
