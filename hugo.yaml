@@ -56,7 +56,7 @@ params:
     enabled: true # needs to be explicitly set
     title: n4cr4
     subtitle: >
-      千葉大学 工学部総合工学科 情報工学コース3年
+      Infra Engineer
     imageUrl: "/myself.jpg"
     imageWidth: 130
     imageHeight: 130
@@ -69,7 +69,7 @@ params:
 
   socialIcons:
     - name: x
-      url: "https://twitter.com/n4Cr47"
+      url: "https://twitter.com/n4cr47"
     - name: instagram
       url: "https://www.instagram.com/n4cr47/"
     - name: github
